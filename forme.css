@@ -1,0 +1,20 @@
+p.musko {
+    color: blue;
+    margin:0;
+    padding:0;
+	display: inline;
+}
+
+p.zensko{
+    color: red;
+    margin:0;
+    padding:0;
+    display: inline;
+}
+
+p.ostalo{
+    color: purple;
+    margin:0;
+    padding:0;
+    display: inline;
+}
